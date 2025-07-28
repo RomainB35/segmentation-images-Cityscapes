@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/835703093750460675/db2fe33cad054fe49de2bebd2dab4baf/artifacts
+deleted_time: 1753263386003
+end_time: 1753262792917
+entry_point_name: ''
+experiment_id: '835703093750460675'
+lifecycle_stage: deleted
+run_id: db2fe33cad054fe49de2bebd2dab4baf
+run_name: intelligent-duck-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753262791473
+status: 4
+tags: []
+user_id: rburulci

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/126432365064257703/f6528ce6bc784d74adfb96aee284452b/artifacts
+deleted_time: 1753175624058
+end_time: 1753172352560
+entry_point_name: ''
+experiment_id: '126432365064257703'
+lifecycle_stage: deleted
+run_id: f6528ce6bc784d74adfb96aee284452b
+run_name: redolent-dog-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753172317389
+status: 4
+tags: []
+user_id: rburulci

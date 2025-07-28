@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/835703093750460675/b565490ec4044899bed8a253d339be96/artifacts
+end_time: 1753280486496
+entry_point_name: ''
+experiment_id: '835703093750460675'
+lifecycle_stage: active
+run_id: b565490ec4044899bed8a253d339be96
+run_name: colorful-moose-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753263661813
+status: 3
+tags: []
+user_id: rburulci

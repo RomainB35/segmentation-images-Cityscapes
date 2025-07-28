@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/671347366123646130/2d566d3f58864e74902f455d337d53f3/artifacts
+end_time: 1753289056344
+entry_point_name: ''
+experiment_id: '671347366123646130'
+lifecycle_stage: active
+run_id: 2d566d3f58864e74902f455d337d53f3
+run_name: illustrious-goat-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753284487535
+status: 3
+tags: []
+user_id: rburulci

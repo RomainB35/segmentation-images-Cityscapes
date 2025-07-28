@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/753553326915118418/d3e2fa768cf2491f80819bc4c3adac65/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '753553326915118418'
+lifecycle_stage: active
+run_id: d3e2fa768cf2491f80819bc4c3adac65
+run_name: likeable-flea-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753387868303
+status: 1
+tags: []
+user_id: rburulci

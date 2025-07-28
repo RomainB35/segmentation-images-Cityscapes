@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/502385179417422802/01e9340c301441fe937629de6d7c227a/artifacts
+end_time: 1753343450971
+entry_point_name: ''
+experiment_id: '502385179417422802'
+lifecycle_stage: active
+run_id: 01e9340c301441fe937629de6d7c227a
+run_name: traveling-kit-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753340421523
+status: 3
+tags: []
+user_id: rburulci

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/716053023728192375/9ec2f752c26343ab9880cd18317541d9/artifacts
+end_time: 1753565168531
+entry_point_name: ''
+experiment_id: '716053023728192375'
+lifecycle_stage: active
+run_id: 9ec2f752c26343ab9880cd18317541d9
+run_name: bustling-seal-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753564126481
+status: 4
+tags: []
+user_id: rburulci

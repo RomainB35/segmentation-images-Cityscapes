@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/753553326915118418
+creation_time: 1753387821764
+experiment_id: '753553326915118418'
+last_update_time: 1753387821764
+lifecycle_stage: active
+name: exp_unet_cityscapes_512x1024

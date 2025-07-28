@@ -1,0 +1,10 @@
+digest: 6ab51ccc
+name: dataset
+profile: '{"features_cardinality": 744}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"name\": \"0\", \"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float32\", \"shape\": [-1, 256, 256, 3]}}, {\"name\":
+  \"1\", \"type\": \"tensor\", \"tensor-spec\": {\"dtype\": \"uint8\", \"shape\":
+  [-1, 256, 256, 1]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "rburulci", "mlflow.source.name": "/srv/picture_segmentation/projet8_openclassrooms/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

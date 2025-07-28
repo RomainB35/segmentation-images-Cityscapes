@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/126432365064257703/55d3143817dc4c56afdafdd5d637568f/artifacts
+deleted_time: 1753175624019
+end_time: 1753172910530
+entry_point_name: ''
+experiment_id: '126432365064257703'
+lifecycle_stage: deleted
+run_id: 55d3143817dc4c56afdafdd5d637568f
+run_name: rare-deer-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753172875183
+status: 4
+tags: []
+user_id: rburulci

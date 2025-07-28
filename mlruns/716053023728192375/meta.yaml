@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/716053023728192375
+creation_time: 1753564085098
+experiment_id: '716053023728192375'
+last_update_time: 1753564085098
+lifecycle_stage: active
+name: exp_unet_cityscapes_256x512_true_masks

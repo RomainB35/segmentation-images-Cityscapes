@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/569182340688983710/2c9a4e9aeea94be4995d74d6ae5e1be2/artifacts
+deleted_time: 1753172228705
+end_time: 1753168106487
+entry_point_name: ''
+experiment_id: '569182340688983710'
+lifecycle_stage: deleted
+run_id: 2c9a4e9aeea94be4995d74d6ae5e1be2
+run_name: salty-zebra-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753168106395
+status: 4
+tags: []
+user_id: rburulci

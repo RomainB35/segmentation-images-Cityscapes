@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/817126340818236836/6246631589b64f4f8a56e59da6dfe2ad/artifacts
+end_time: 1753108527544
+entry_point_name: ''
+experiment_id: '817126340818236836'
+lifecycle_stage: active
+run_id: 6246631589b64f4f8a56e59da6dfe2ad
+run_name: dapper-koi-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753102755770
+status: 3
+tags: []
+user_id: rburulci

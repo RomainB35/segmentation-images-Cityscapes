@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/978263855010937972/b56c4299121b48908c9ab74bcae6eed1/artifacts
+deleted_time: 1753174268019
+end_time: null
+entry_point_name: ''
+experiment_id: '978263855010937972'
+lifecycle_stage: deleted
+run_id: b56c4299121b48908c9ab74bcae6eed1
+run_name: incongruous-jay-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753122011446
+status: 1
+tags: []
+user_id: rburulci

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/126432365064257703
+creation_time: 1753171920833
+experiment_id: '126432365064257703'
+last_update_time: 1753171920833
+lifecycle_stage: active
+name: exp_local_mobilenetv2_1024x512

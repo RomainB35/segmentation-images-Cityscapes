@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/788401144057491147/02fbbde45ea94325b797e8666b89f88e/artifacts
+end_time: 1753706822973
+entry_point_name: ''
+experiment_id: '788401144057491147'
+lifecycle_stage: active
+run_id: 02fbbde45ea94325b797e8666b89f88e
+run_name: amazing-hawk-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753613288961
+status: 3
+tags: []
+user_id: rburulci

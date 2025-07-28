@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/569182340688983710/8a9c8aa7a0724a7fa1ea0462759a3c25/artifacts
+deleted_time: 1753172228705
+end_time: 1753168440240
+entry_point_name: ''
+experiment_id: '569182340688983710'
+lifecycle_stage: deleted
+run_id: 8a9c8aa7a0724a7fa1ea0462759a3c25
+run_name: sedate-eel-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753168440178
+status: 4
+tags: []
+user_id: rburulci

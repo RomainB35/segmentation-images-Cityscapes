@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/978263855010937972
+creation_time: 1753121579042
+experiment_id: '978263855010937972'
+last_update_time: 1753121579042
+lifecycle_stage: active
+name: exp_unet_cityscapes_512x512

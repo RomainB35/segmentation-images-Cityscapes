@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/569182340688983710/21977960129247edbcc774186ba54538/artifacts
+deleted_time: 1753172228705
+end_time: 1753167648842
+entry_point_name: ''
+experiment_id: '569182340688983710'
+lifecycle_stage: deleted
+run_id: 21977960129247edbcc774186ba54538
+run_name: persistent-hog-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753167639912
+status: 4
+tags: []
+user_id: rburulci

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/279743582628030279/b275fb6a74834395a86f7172f52e6194/artifacts
+end_time: 1753187240919
+entry_point_name: ''
+experiment_id: '279743582628030279'
+lifecycle_stage: active
+run_id: b275fb6a74834395a86f7172f52e6194
+run_name: loud-smelt-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753180472991
+status: 3
+tags: []
+user_id: rburulci

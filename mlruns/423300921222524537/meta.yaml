@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/423300921222524537
+creation_time: 1753552383138
+experiment_id: '423300921222524537'
+last_update_time: 1753552383138
+lifecycle_stage: active
+name: unet-cityscapes-highres

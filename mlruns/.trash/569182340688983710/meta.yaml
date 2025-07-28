@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/569182340688983710
+creation_time: 1753167355716
+experiment_id: '569182340688983710'
+last_update_time: 1753172228705
+lifecycle_stage: deleted
+name: deeplabv3_cityscapes_exp
+tags: {}

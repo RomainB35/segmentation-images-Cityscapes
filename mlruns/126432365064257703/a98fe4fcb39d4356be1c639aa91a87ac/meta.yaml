@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/126432365064257703/a98fe4fcb39d4356be1c639aa91a87ac/artifacts
+end_time: 1753175414644
+entry_point_name: ''
+experiment_id: '126432365064257703'
+lifecycle_stage: active
+run_id: a98fe4fcb39d4356be1c639aa91a87ac
+run_name: luminous-sheep-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753173454548
+status: 3
+tags: []
+user_id: rburulci

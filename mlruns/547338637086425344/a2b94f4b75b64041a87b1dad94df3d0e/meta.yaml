@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/547338637086425344/a2b94f4b75b64041a87b1dad94df3d0e/artifacts
+end_time: 1753370702400
+entry_point_name: ''
+experiment_id: '547338637086425344'
+lifecycle_stage: active
+run_id: a2b94f4b75b64041a87b1dad94df3d0e
+run_name: resilient-frog-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753358130366
+status: 3
+tags: []
+user_id: rburulci

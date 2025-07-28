@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/279743582628030279
+creation_time: 1753180106482
+experiment_id: '279743582628030279'
+last_update_time: 1753180106482
+lifecycle_stage: active
+name: cityscapes_deeplabv3plus_resnet50_1024x512

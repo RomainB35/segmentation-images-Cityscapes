@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/985732016177744783/81df2cb6a4fc4133a8e9c1ce4ea7fa89/artifacts
+deleted_time: 1753166610831
+end_time: null
+entry_point_name: ''
+experiment_id: '985732016177744783'
+lifecycle_stage: deleted
+run_id: 81df2cb6a4fc4133a8e9c1ce4ea7fa89
+run_name: hilarious-slug-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753109774961
+status: 1
+tags: []
+user_id: rburulci

@@ -1,0 +1,21 @@
+sudo apt update
+sudo apt install python3 python3-venv python3-pip
+
+
+python3 -m venv projet8
+
+source projet2/bin/activate
+
+
+# Installer des librairies à partir d'un fichier requirements.txt
+pip install -r requirements.txt
+
+pip list  # Vérifier les librairies installées
+
+deactivate  # Désactiver l'environnement virtuel
+
+python -m ipykernel install --user --name=projet8 --display-name "Python (projet8)"
+
+jupyter notebook
+
+

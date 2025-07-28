@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/430007655838617205/27fff555e3a548ff93f1ee0bef01ffbb/artifacts
+end_time: 1753171530741
+entry_point_name: ''
+experiment_id: '430007655838617205'
+lifecycle_stage: active
+run_id: 27fff555e3a548ff93f1ee0bef01ffbb
+run_name: honorable-fox-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753170708856
+status: 3
+tags: []
+user_id: rburulci

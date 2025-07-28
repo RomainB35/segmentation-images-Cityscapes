@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/671347366123646130/da5c87710c76417ab265eda0c4dfe02c/artifacts
+deleted_time: 1753301329214
+end_time: 1753283105114
+entry_point_name: ''
+experiment_id: '671347366123646130'
+lifecycle_stage: deleted
+run_id: da5c87710c76417ab265eda0c4dfe02c
+run_name: melodic-goose-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753283075105
+status: 4
+tags: []
+user_id: rburulci

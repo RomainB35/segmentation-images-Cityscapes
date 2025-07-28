@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/835703093750460675/516615e91b2947648602961b226c9970/artifacts
+deleted_time: 1753263386034
+end_time: 1753263317479
+entry_point_name: ''
+experiment_id: '835703093750460675'
+lifecycle_stage: deleted
+run_id: 516615e91b2947648602961b226c9970
+run_name: overjoyed-mule-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753263121051
+status: 4
+tags: []
+user_id: rburulci

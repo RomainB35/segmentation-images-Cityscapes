@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122155783282512799/1c561a2bd2d04f439cda1915b4ceabd8/artifacts
+deleted_time: 1753262639044
+end_time: 1753261984623
+entry_point_name: ''
+experiment_id: '122155783282512799'
+lifecycle_stage: deleted
+run_id: 1c561a2bd2d04f439cda1915b4ceabd8
+run_name: trusting-shoat-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753261915456
+status: 4
+tags: []
+user_id: rburulci

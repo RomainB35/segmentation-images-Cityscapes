@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/637085012382107059
+creation_time: 1753377997747
+experiment_id: '637085012382107059'
+last_update_time: 1753377997747
+lifecycle_stage: active
+name: Unet_256x256_aug

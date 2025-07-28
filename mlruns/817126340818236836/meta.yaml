@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/817126340818236836
+creation_time: 1753102088024
+experiment_id: '817126340818236836'
+last_update_time: 1753102088024
+lifecycle_stage: active
+name: segmentation_cityscapes

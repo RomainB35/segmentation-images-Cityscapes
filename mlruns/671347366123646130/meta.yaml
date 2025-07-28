@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/671347366123646130
+creation_time: 1753282764185
+experiment_id: '671347366123646130'
+last_update_time: 1753282764185
+lifecycle_stage: active
+name: exp_cityscapes_resnet101_256x256_data_augmentation

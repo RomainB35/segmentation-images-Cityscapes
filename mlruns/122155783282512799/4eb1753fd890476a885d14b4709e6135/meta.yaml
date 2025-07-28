@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122155783282512799/4eb1753fd890476a885d14b4709e6135/artifacts
+deleted_time: 1753180019642
+end_time: 1753177977461
+entry_point_name: ''
+experiment_id: '122155783282512799'
+lifecycle_stage: deleted
+run_id: 4eb1753fd890476a885d14b4709e6135
+run_name: exultant-kit-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753177976549
+status: 4
+tags: []
+user_id: rburulci

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/441616900837503766
+creation_time: 1753353968526
+experiment_id: '441616900837503766'
+last_update_time: 1753353968526
+lifecycle_stage: active
+name: exp_deeplabv3plus_resnet101_local_data_augmented_sample_55K_shuffle

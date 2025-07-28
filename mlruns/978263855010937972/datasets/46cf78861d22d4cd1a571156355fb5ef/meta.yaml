@@ -1,0 +1,11 @@
+digest: 87fc03af
+name: dataset
+profile: '{"features_shape": [500, 512, 512, 3], "features_size": 393216000, "features_nbytes":
+  1572864000, "targets_shape": [500, 512, 512, 1], "targets_size": 131072000, "targets_nbytes":
+  131072000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 512, 512, 3]}}]", "targets": "[{\"type\":
+  \"tensor\", \"tensor-spec\": {\"dtype\": \"uint8\", \"shape\": [-1, 512, 512, 1]}}]"}}'
+source: '{"tags": {"mlflow.user": "rburulci", "mlflow.source.name": "/srv/picture_segmentation/projet8_openclassrooms/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

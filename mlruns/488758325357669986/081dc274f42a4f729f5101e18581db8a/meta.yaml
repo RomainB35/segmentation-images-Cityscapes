@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/488758325357669986/081dc274f42a4f729f5101e18581db8a/artifacts
+end_time: 1753317013999
+entry_point_name: ''
+experiment_id: '488758325357669986'
+lifecycle_stage: active
+run_id: 081dc274f42a4f729f5101e18581db8a
+run_name: mercurial-sow-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753308503990
+status: 3
+tags: []
+user_id: rburulci

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/423300921222524537/748de8db4b2342bab9af20955ccd3ccf/artifacts
+end_time: 1753563770297
+entry_point_name: ''
+experiment_id: '423300921222524537'
+lifecycle_stage: active
+run_id: 748de8db4b2342bab9af20955ccd3ccf
+run_name: silent-moth-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753552686081
+status: 4
+tags: []
+user_id: rburulci
