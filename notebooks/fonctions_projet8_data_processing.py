@@ -486,3 +486,112 @@ def overlay_mask_on_image_8class(image_path, mask_path, alpha=0.6):
         )
     plt.tight_layout()
     plt.show()
+
+import os
+import random
+from PIL import Image, ImageEnhance, ImageOps, ImageFilter
+import numpy as np
+from glob import glob
+from concurrent.futures import ProcessPoolExecutor
+
+def add_random_noise(image):
+    np_img = np.array(image)
+    noise = np.random.normal(0, 5, np_img.shape).astype(np.int16)
+    noisy_img = np.clip(np_img + noise, 0, 255).astype(np.uint8)
+    return Image.fromarray(noisy_img)
+
+def apply_random_transformations(img, mask):
+    if random.random() < 0.5:
+        img = img.transpose(Image.FLIP_LEFT_RIGHT)
+        mask = mask.transpose(Image.FLIP_LEFT_RIGHT)
+
+    if random.random() < 0.5:
+        img = img.transpose(Image.FLIP_TOP_BOTTOM)
+        mask = mask.transpose(Image.FLIP_TOP_BOTTOM)
+
+    if random.random() < 0.5:
+        angle = random.choice([90, 180, 270])
+        img = img.rotate(angle, resample=Image.BILINEAR)
+        mask = mask.rotate(angle, resample=Image.NEAREST)
+
+    if random.random() < 0.5:
+        scale = random.uniform(0.9, 1.1)
+        w, h = img.size
+        new_w, new_h = int(w * scale), int(h * scale)
+
+        img = img.resize((new_w, new_h), resample=Image.BILINEAR)
+        mask = mask.resize((new_w, new_h), resample=Image.NEAREST)
+
+        if scale < 1.0:
+            pad_w = (w - new_w) // 2
+            pad_h = (h - new_h) // 2
+            img = ImageOps.expand(img, border=(pad_w, pad_h, w - new_w - pad_w, h - new_h - pad_h), fill=0)
+            mask = ImageOps.expand(mask, border=(pad_w, pad_h, w - new_w - pad_w, h - new_h - pad_h), fill=255)
+        else:
+            left = (new_w - w) // 2
+            top = (new_h - h) // 2
+            img = img.crop((left, top, left + w, top + h))
+            mask = mask.crop((left, top, left + w, top + h))
+
+    if random.random() < 0.3:
+        factor = random.uniform(0.7, 1.3)
+        img = ImageEnhance.Brightness(img).enhance(factor)
+
+    if random.random() < 0.3:
+        factor = random.uniform(0.7, 1.5)
+        img = ImageEnhance.Contrast(img).enhance(factor)
+
+    if random.random() < 0.2:
+        radius = random.uniform(0.5, 1.5)
+        img = img.filter(ImageFilter.GaussianBlur(radius=radius))
+
+    if random.random() < 0.2:
+        img = add_random_noise(img)
+
+    return img, mask
+
+def augment_one_pair(img_path, mask_path, out_img_dir, out_mask_dir, rel_path, n_aug=5):
+    base_name = os.path.splitext(os.path.basename(img_path))[0]
+    sub_dir = os.path.dirname(rel_path)
+    os.makedirs(os.path.join(out_img_dir, sub_dir), exist_ok=True)
+    os.makedirs(os.path.join(out_mask_dir, sub_dir), exist_ok=True)
+
+    img = Image.open(img_path).convert("RGB")
+    mask = Image.open(mask_path).convert("L")
+
+    # ➕ Sauvegarde de l'image et du masque originaux
+    orig_img_path = os.path.join(out_img_dir, sub_dir, f"{base_name}_orig.png")
+    orig_mask_path = os.path.join(out_mask_dir, sub_dir, f"{base_name}_orig.png")
+    img.save(orig_img_path)
+    mask.save(orig_mask_path)
+
+    # 🔁 Génération des versions augmentées
+    for i in range(n_aug):
+        aug_img, aug_mask = apply_random_transformations(img, mask)
+        out_img_path = os.path.join(out_img_dir, sub_dir, f"{base_name}_aug{i}.png")
+        out_mask_path = os.path.join(out_mask_dir, sub_dir, f"{base_name}_aug{i}.png")
+        aug_img.save(out_img_path)
+        aug_mask.save(out_mask_path)
+
+def augment_dataset_multicore(img_dir, mask_dir, out_img_dir, out_mask_dir, n_aug_per_image=5, num_workers=8):
+    print(f"🔁 Début de l'augmentation avec {num_workers} workers...")
+    os.makedirs(out_img_dir, exist_ok=True)
+    os.makedirs(out_mask_dir, exist_ok=True)
+
+    img_paths = sorted(glob(os.path.join(img_dir, "**/*.png"), recursive=True))
+    mask_paths = sorted(glob(os.path.join(mask_dir, "**/*.png"), recursive=True))
+
+    with ProcessPoolExecutor(max_workers=num_workers) as executor:
+        futures = []
+        for img_path, mask_path in zip(img_paths, mask_paths):
+            rel_path = os.path.relpath(img_path, img_dir)
+            futures.append(executor.submit(
+                augment_one_pair,
+                img_path, mask_path,
+                out_img_dir, out_mask_dir,
+                rel_path,
+                n_aug_per_image
+            ))
+
+    print("✅ Augmentation terminée.")
+
