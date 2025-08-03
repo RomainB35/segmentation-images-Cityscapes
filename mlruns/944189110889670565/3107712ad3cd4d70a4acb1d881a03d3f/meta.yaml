@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/944189110889670565/3107712ad3cd4d70a4acb1d881a03d3f/artifacts
+end_time: 1753866792845
+entry_point_name: ''
+experiment_id: '944189110889670565'
+lifecycle_stage: active
+run_id: 3107712ad3cd4d70a4acb1d881a03d3f
+run_name: inquisitive-flea-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753866274982
+status: 4
+tags: []
+user_id: projet8

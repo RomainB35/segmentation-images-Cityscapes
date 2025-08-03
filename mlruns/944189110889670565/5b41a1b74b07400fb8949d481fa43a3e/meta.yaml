@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/944189110889670565/5b41a1b74b07400fb8949d481fa43a3e/artifacts
+end_time: 1753865724062
+entry_point_name: ''
+experiment_id: '944189110889670565'
+lifecycle_stage: active
+run_id: 5b41a1b74b07400fb8949d481fa43a3e
+run_name: bold-conch-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753864235987
+status: 4
+tags: []
+user_id: projet8

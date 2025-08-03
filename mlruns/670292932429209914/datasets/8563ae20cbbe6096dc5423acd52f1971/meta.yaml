@@ -1,0 +1,10 @@
+digest: 6f3919a6
+name: dataset
+profile: '{"features_cardinality": 500}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"name\": \"0\", \"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float32\", \"shape\": [-1, 2256, 256, 3]}}, {\"name\":
+  \"1\", \"type\": \"tensor\", \"tensor-spec\": {\"dtype\": \"uint8\", \"shape\":
+  [-1, 2256, 256, 1]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "projet8", "mlflow.source.name": "/home/projet8/miniconda3/envs/tf-gpu/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

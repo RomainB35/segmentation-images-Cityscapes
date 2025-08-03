@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/699133868145242624/853b12e3789449dca1f56a12e20a0e63/artifacts
+end_time: 1753900767854
+entry_point_name: ''
+experiment_id: '699133868145242624'
+lifecycle_stage: active
+run_id: 853b12e3789449dca1f56a12e20a0e63
+run_name: intelligent-crab-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753896573912
+status: 3
+tags: []
+user_id: projet8

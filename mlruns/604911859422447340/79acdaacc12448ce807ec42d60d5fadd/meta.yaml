@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/604911859422447340/79acdaacc12448ce807ec42d60d5fadd/artifacts
+end_time: 1753893405821
+entry_point_name: ''
+experiment_id: '604911859422447340'
+lifecycle_stage: active
+run_id: 79acdaacc12448ce807ec42d60d5fadd
+run_name: amusing-tern-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753891351775
+status: 4
+tags: []
+user_id: projet8

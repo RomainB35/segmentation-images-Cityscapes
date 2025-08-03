@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675429661775644666/ac87b9c0605444aaad784bc714734c5f/artifacts
+end_time: 1753871725032
+entry_point_name: ''
+experiment_id: '675429661775644666'
+lifecycle_stage: active
+run_id: ac87b9c0605444aaad784bc714734c5f
+run_name: victorious-squid-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753870648735
+status: 3
+tags: []
+user_id: projet8

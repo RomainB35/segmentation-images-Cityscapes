@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/699133868145242624
+creation_time: 1753896448039
+experiment_id: '699133868145242624'
+last_update_time: 1753896448039
+lifecycle_stage: active
+name: exp_unet_cityscapes_384x768_d4_f64_true_masks_GPU

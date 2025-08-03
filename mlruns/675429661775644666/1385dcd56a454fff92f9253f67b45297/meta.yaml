@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675429661775644666/1385dcd56a454fff92f9253f67b45297/artifacts
+end_time: 1753870345790
+entry_point_name: ''
+experiment_id: '675429661775644666'
+lifecycle_stage: active
+run_id: 1385dcd56a454fff92f9253f67b45297
+run_name: gaudy-ray-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753869433391
+status: 4
+tags: []
+user_id: projet8

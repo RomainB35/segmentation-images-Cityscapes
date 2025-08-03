@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/276799788824557891/c3d17eeb5f2346b1a9e6c3c13bfefdea/artifacts
+end_time: 1753889435332
+entry_point_name: ''
+experiment_id: '276799788824557891'
+lifecycle_stage: active
+run_id: c3d17eeb5f2346b1a9e6c3c13bfefdea
+run_name: kindly-wolf-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753889427186
+status: 4
+tags: []
+user_id: projet8

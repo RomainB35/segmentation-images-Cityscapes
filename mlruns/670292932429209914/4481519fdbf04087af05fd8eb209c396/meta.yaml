@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/670292932429209914/4481519fdbf04087af05fd8eb209c396/artifacts
+end_time: 1753872355139
+entry_point_name: ''
+experiment_id: '670292932429209914'
+lifecycle_stage: active
+run_id: 4481519fdbf04087af05fd8eb209c396
+run_name: exultant-duck-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753872210460
+status: 3
+tags: []
+user_id: projet8

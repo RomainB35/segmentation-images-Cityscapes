@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/578261947126616016/f1af2d1206df4041b77021ead067601b/artifacts
+end_time: 1753896402941
+entry_point_name: ''
+experiment_id: '578261947126616016'
+lifecycle_stage: active
+run_id: f1af2d1206df4041b77021ead067601b
+run_name: fun-steed-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753893440633
+status: 3
+tags: []
+user_id: projet8

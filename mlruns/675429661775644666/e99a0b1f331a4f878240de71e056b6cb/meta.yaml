@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/675429661775644666/e99a0b1f331a4f878240de71e056b6cb/artifacts
+end_time: 1753867676350
+entry_point_name: ''
+experiment_id: '675429661775644666'
+lifecycle_stage: active
+run_id: e99a0b1f331a4f878240de71e056b6cb
+run_name: funny-skunk-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753867670411
+status: 4
+tags: []
+user_id: projet8

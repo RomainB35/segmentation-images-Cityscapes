@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/276799788824557891/39bee4c279ff44daac21e85b04d107e4/artifacts
+end_time: 1753889548126
+entry_point_name: ''
+experiment_id: '276799788824557891'
+lifecycle_stage: active
+run_id: 39bee4c279ff44daac21e85b04d107e4
+run_name: judicious-deer-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753889539639
+status: 4
+tags: []
+user_id: projet8

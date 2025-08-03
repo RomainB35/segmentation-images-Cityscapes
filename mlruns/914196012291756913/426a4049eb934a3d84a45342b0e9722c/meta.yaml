@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/914196012291756913/426a4049eb934a3d84a45342b0e9722c/artifacts
+end_time: 1753886375406
+entry_point_name: ''
+experiment_id: '914196012291756913'
+lifecycle_stage: active
+run_id: 426a4049eb934a3d84a45342b0e9722c
+run_name: sneaky-frog-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753872737989
+status: 3
+tags: []
+user_id: projet8

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/522428617053715482/4a66849e83c3426caefcd003b6d9539d/artifacts
+end_time: 1753886843028
+entry_point_name: ''
+experiment_id: '522428617053715482'
+lifecycle_stage: active
+run_id: 4a66849e83c3426caefcd003b6d9539d
+run_name: abundant-colt-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753886610432
+status: 4
+tags: []
+user_id: projet8

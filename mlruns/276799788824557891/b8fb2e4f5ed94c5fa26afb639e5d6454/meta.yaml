@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/276799788824557891/b8fb2e4f5ed94c5fa26afb639e5d6454/artifacts
+end_time: 1753891254877
+entry_point_name: ''
+experiment_id: '276799788824557891'
+lifecycle_stage: active
+run_id: b8fb2e4f5ed94c5fa26afb639e5d6454
+run_name: dazzling-skink-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753889618912
+status: 4
+tags: []
+user_id: projet8

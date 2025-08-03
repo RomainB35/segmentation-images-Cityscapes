@@ -1,0 +1,47 @@
+#!/bin/bash
+
+# ==========================
+# 1. Installer Miniconda (Linux 64-bit)
+# ==========================
+echo "📦 Téléchargement de Miniconda..."
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+bash miniconda.sh -b -p $HOME/miniconda
+eval "$($HOME/miniconda/bin/conda shell.bash hook)"
+conda init
+
+# Recharge le shell avec conda actif
+exec $SHELL
+
+# ==========================
+# 2. Créer l'environnement tf-gpu
+# ==========================
+echo "🛠️ Création de l'environnement Conda tf-gpu..."
+conda create -n tf-gpu python=3.10 -y
+conda activate tf-gpu
+
+# ==========================
+# 3. Installer TensorFlow GPU (via pip)
+# ==========================
+echo "⚙️ Installation de TensorFlow avec support GPU..."
+pip install --upgrade pip
+pip install tensorflow==2.15.0 ipykernel
+
+# ==========================
+# 4. Ajouter kernel à Jupyter
+# ==========================
+echo "📚 Enregistrement du kernel Jupyter..."
+python -m ipykernel install --user --name=tf-gpu --display-name "Python (tf-gpu)"
+
+# ==========================
+# 5. (Optionnel) Ajouter nvidia-ml-py3 pour tester GPU
+# ==========================
+pip install nvidia-ml-py3
+
+# ==========================
+# 6. Test rapide (GPU visible ?)
+# ==========================
+echo "🔍 Test GPU depuis Python..."
+python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+
+echo "✅ Environnement tf-gpu prêt avec GPU support"
+

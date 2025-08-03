@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/504644699668954583/c58c5f1f530240a7ade766328e15397f/artifacts
+end_time: 1753888765492
+entry_point_name: ''
+experiment_id: '504644699668954583'
+lifecycle_stage: active
+run_id: c58c5f1f530240a7ade766328e15397f
+run_name: gaudy-wren-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753886927579
+status: 3
+tags: []
+user_id: projet8
