@@ -1,0 +1,18 @@
+# ✅ Créer une session nommée "entrainement_segformer"
+tmux new -s entrainement_segformer
+
+# ⌨️ Une fois dans tmux, détache-toi avec ce raccourci clavier :
+# CTRL + B puis D  (pas besoin de le taper dans le terminal)
+
+# 🔁 Pour revenir dans la session plus tard
+tmux attach -t entrainement_segformer
+
+# 📋 Pour lister toutes les sessions tmux existantes
+tmux ls
+
+# ❌ Pour quitter proprement une session depuis l'intérieur de tmux
+exit
+
+# 🔪 Ou tuer une session depuis l’extérieur
+tmux kill-session -t entrainement_segformer
+
