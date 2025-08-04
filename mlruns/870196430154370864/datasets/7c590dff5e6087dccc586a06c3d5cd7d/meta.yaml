@@ -1,0 +1,11 @@
+digest: d50410f8
+name: dataset
+profile: '{"features_shape": [500, 128, 256, 3], "features_size": 49152000, "features_nbytes":
+  196608000, "targets_shape": [500, 128, 256, 1], "targets_size": 16384000, "targets_nbytes":
+  16384000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 128, 256, 3]}}]", "targets": "[{\"type\":
+  \"tensor\", \"tensor-spec\": {\"dtype\": \"uint8\", \"shape\": [-1, 128, 256, 1]}}]"}}'
+source: '{"tags": {"mlflow.user": "projet8", "mlflow.source.name": "/home/projet8/miniconda/envs/tf-gpu/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/972412193520473051/d8c7d1b6ff8d4579873ba29a6ca691da/artifacts
+end_time: 1754333810301
+entry_point_name: ''
+experiment_id: '972412193520473051'
+lifecycle_stage: active
+run_id: d8c7d1b6ff8d4579873ba29a6ca691da
+run_name: amusing-shrike-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754331113216
+status: 4
+tags: []
+user_id: projet8

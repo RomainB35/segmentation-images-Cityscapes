@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/515052022533418736/d0ce059ac7964bab9232aca5a150ea08/artifacts
+end_time: 1754330987267
+entry_point_name: ''
+experiment_id: '515052022533418736'
+lifecycle_stage: active
+run_id: d0ce059ac7964bab9232aca5a150ea08
+run_name: vaunted-squirrel-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754330617708
+status: 3
+tags: []
+user_id: projet8

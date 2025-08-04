@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/235276014669851044/18f33af4007645ad9a653d7cea58c9a5/artifacts
+end_time: 1754340716977
+entry_point_name: ''
+experiment_id: '235276014669851044'
+lifecycle_stage: active
+run_id: 18f33af4007645ad9a653d7cea58c9a5
+run_name: upbeat-squirrel-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754334954193
+status: 4
+tags: []
+user_id: projet8

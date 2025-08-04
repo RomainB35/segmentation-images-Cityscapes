@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/235276014669851044/5164ce8168e14c2ca3538065da02d5df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '235276014669851044'
+lifecycle_stage: active
+run_id: 5164ce8168e14c2ca3538065da02d5df
+run_name: invincible-skink-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754334123957
+status: 1
+tags: []
+user_id: projet8

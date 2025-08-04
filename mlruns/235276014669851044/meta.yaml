@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/235276014669851044
+creation_time: 1754334070316
+experiment_id: '235276014669851044'
+last_update_time: 1754334070316
+lifecycle_stage: active
+name: deeplabv3_convnext_experiment_512x1024_checkpoints

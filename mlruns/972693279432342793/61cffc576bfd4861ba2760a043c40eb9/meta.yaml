@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/972693279432342793/61cffc576bfd4861ba2760a043c40eb9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '972693279432342793'
+lifecycle_stage: active
+run_id: 61cffc576bfd4861ba2760a043c40eb9
+run_name: sassy-yak-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754340907369
+status: 1
+tags: []
+user_id: projet8
