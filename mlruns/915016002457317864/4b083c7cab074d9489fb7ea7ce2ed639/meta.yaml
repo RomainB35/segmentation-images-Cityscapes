@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/915016002457317864/4b083c7cab074d9489fb7ea7ce2ed639/artifacts
+end_time: 1754246931089
+entry_point_name: ''
+experiment_id: '915016002457317864'
+lifecycle_stage: active
+run_id: 4b083c7cab074d9489fb7ea7ce2ed639
+run_name: unique-asp-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754245529268
+status: 3
+tags: []
+user_id: projet8

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/788401144057491147/298cb6e4e4714b04a416cfb9585dcb55/artifacts
+end_time: 1754245207203
+entry_point_name: ''
+experiment_id: '788401144057491147'
+lifecycle_stage: active
+run_id: 298cb6e4e4714b04a416cfb9585dcb55
+run_name: loud-shark-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754244990409
+status: 3
+tags: []
+user_id: projet8

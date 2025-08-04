@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/665704629402099934
+creation_time: 1754250615909
+experiment_id: '665704629402099934'
+last_update_time: 1754250615909
+lifecycle_stage: active
+name: exp_unet_cityscapes_384x768_true_masks_H100_checkpoints_data_aug_9K_2

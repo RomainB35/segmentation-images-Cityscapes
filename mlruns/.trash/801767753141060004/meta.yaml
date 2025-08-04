@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/801767753141060004
+creation_time: 1754259224633
+experiment_id: '801767753141060004'
+last_update_time: 1754261234493
+lifecycle_stage: deleted
+name: segformer_npz_384x768
+tags: {}

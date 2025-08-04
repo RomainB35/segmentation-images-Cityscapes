@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/801767753141060004/56da05ff04ef452fbf2e63b362e8eb34/artifacts
+deleted_time: 1754261234493
+end_time: 1754259796531
+entry_point_name: ''
+experiment_id: '801767753141060004'
+lifecycle_stage: deleted
+run_id: 56da05ff04ef452fbf2e63b362e8eb34
+run_name: loud-fish-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754259796140
+status: 4
+tags: []
+user_id: projet8

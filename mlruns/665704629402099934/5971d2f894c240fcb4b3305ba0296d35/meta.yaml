@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/665704629402099934/5971d2f894c240fcb4b3305ba0296d35/artifacts
+end_time: 1754255080559
+entry_point_name: ''
+experiment_id: '665704629402099934'
+lifecycle_stage: active
+run_id: 5971d2f894c240fcb4b3305ba0296d35
+run_name: serious-donkey-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754250739969
+status: 3
+tags: []
+user_id: projet8

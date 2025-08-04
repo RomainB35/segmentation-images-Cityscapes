@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/115645820659887564/b37db7ad84a140ed83976bd190060af2/artifacts
+end_time: 1754247241172
+entry_point_name: ''
+experiment_id: '115645820659887564'
+lifecycle_stage: active
+run_id: b37db7ad84a140ed83976bd190060af2
+run_name: gentle-mouse-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754247071669
+status: 3
+tags: []
+user_id: projet8

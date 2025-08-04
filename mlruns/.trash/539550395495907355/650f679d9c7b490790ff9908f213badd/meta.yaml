@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/539550395495907355/650f679d9c7b490790ff9908f213badd/artifacts
+deleted_time: 1754261243817
+end_time: 1754255769833
+entry_point_name: ''
+experiment_id: '539550395495907355'
+lifecycle_stage: deleted
+run_id: 650f679d9c7b490790ff9908f213badd
+run_name: dapper-newt-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754255761439
+status: 4
+tags: []
+user_id: projet8

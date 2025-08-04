@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/387774344918037062/85025b0741384f7fb6d8c293e2306d6c/artifacts
+end_time: 1754249908819
+entry_point_name: ''
+experiment_id: '387774344918037062'
+lifecycle_stage: active
+run_id: 85025b0741384f7fb6d8c293e2306d6c
+run_name: sedate-dove-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754248352829
+status: 3
+tags: []
+user_id: projet8
