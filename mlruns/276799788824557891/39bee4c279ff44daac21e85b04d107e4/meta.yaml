@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/276799788824557891/39bee4c279ff44daac21e85b04d107e4/artifacts
+deleted_time: 1754432297180
 end_time: 1753889548126
 entry_point_name: ''
 experiment_id: '276799788824557891'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 39bee4c279ff44daac21e85b04d107e4
 run_name: judicious-deer-130
 source_name: ''

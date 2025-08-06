@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/235276014669851044/5164ce8168e14c2ca3538065da02d5df/artifacts
+deleted_time: 1754431765919
 end_time: null
 entry_point_name: ''
 experiment_id: '235276014669851044'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5164ce8168e14c2ca3538065da02d5df
 run_name: invincible-skink-718
 source_name: ''

@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/870196430154370864
-creation_time: 1754328245674
-experiment_id: '870196430154370864'
-last_update_time: 1754328245674
-lifecycle_stage: active
-name: deeplabv3_convnext_experiment_128x256

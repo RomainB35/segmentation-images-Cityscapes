@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/944189110889670565/5b41a1b74b07400fb8949d481fa43a3e/artifacts
+deleted_time: 1754432406949
 end_time: 1753865724062
 entry_point_name: ''
 experiment_id: '944189110889670565'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5b41a1b74b07400fb8949d481fa43a3e
 run_name: bold-conch-547
 source_name: ''

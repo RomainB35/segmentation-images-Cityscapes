@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/978263855010937972/52fd54ae06b747e8adda07d405876873/artifacts
+deleted_time: 1754432649827
 end_time: null
 entry_point_name: ''
 experiment_id: '978263855010937972'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 52fd54ae06b747e8adda07d405876873
 run_name: brawny-crow-867
 source_name: ''

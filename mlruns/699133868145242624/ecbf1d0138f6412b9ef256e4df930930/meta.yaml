@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/699133868145242624/ecbf1d0138f6412b9ef256e4df930930/artifacts
+deleted_time: 1754432232067
 end_time: 1753896540038
 entry_point_name: ''
 experiment_id: '699133868145242624'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ecbf1d0138f6412b9ef256e4df930930
 run_name: clean-mouse-911
 source_name: ''

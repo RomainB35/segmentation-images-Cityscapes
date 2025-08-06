@@ -1,7 +1,0 @@
-artifact_location: mlflow-artifacts:/539550395495907355
-creation_time: 1754255376391
-experiment_id: '539550395495907355'
-last_update_time: 1754261243817
-lifecycle_stage: deleted
-name: segformer-experiment-384x768
-tags: {}
