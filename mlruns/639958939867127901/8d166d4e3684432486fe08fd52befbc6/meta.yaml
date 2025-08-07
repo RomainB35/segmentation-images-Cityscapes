@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639958939867127901/8d166d4e3684432486fe08fd52befbc6/artifacts
+end_time: 1754567888758
+entry_point_name: ''
+experiment_id: '639958939867127901'
+lifecycle_stage: active
+run_id: 8d166d4e3684432486fe08fd52befbc6
+run_name: stylish-pug-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754564623226
+status: 3
+tags: []
+user_id: projet8

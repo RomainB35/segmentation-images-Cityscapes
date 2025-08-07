@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/639958939867127901/d4bd40505cc545a1bdfc13fbeb139752/artifacts
+deleted_time: 1754577346987
+end_time: 1754564537228
+entry_point_name: ''
+experiment_id: '639958939867127901'
+lifecycle_stage: deleted
+run_id: d4bd40505cc545a1bdfc13fbeb139752
+run_name: merciful-fox-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754564468860
+status: 4
+tags: []
+user_id: projet8

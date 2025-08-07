@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/743628795058092490
+creation_time: 1754569765381
+experiment_id: '743628795058092490'
+last_update_time: 1754577333141
+lifecycle_stage: deleted
+name: exp_deeplabv3plus_resnet101_384x768_40_aug2
+tags: {}
